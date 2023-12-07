@@ -1,0 +1,7 @@
+database name: adminpanel
+
+table: appt at register
+
+appt: appt_id(auto increment), firstname, lastname, email, contact, DATE
+
+register: id(auto increment),firstname, lastname, email, password, usertype
